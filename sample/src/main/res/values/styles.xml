@@ -7,9 +7,9 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorPrimaryDark</item>
-        <item name="android:windowBackground">@android:color/white</item>
-        <item name="actionMenuTextColor">@android:color/white</item>
-        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:windowBackground">@color/libraryColorWhite</item>
+        <item name="actionMenuTextColor">@color/libraryColorWhite</item>
+        <item name="android:actionMenuTextColor">@color/libraryColorWhite</item>
         <item name="android:actionMenuTextAppearance">
             @android:style/TextAppearance.Holo.Widget.ActionBar.Menu
         </item>
