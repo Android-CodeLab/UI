@@ -41,7 +41,7 @@ The following apps are using this library without facing any kind of Bugs.
 * **[Jeevan Rakshak](https://play.google.com/store/apps/details?id=com.jeevanrakshak)**
 * **[QR/Barcode Scanner](https://play.google.com/store/apps/details?id=ai.scanner)**
 * **[Wall-E](https://play.google.com/store/apps/details?id=ai.hd.wallpaper)**
-* **[Naapkar](https://play.google.com/store/apps/details?id=com.naapkar)**
+* **[Napkar](https://play.google.com/store/apps/details?id=com.napkar)**
 * **[UseOnRent](https://play.google.com/store/apps/details?id=com.tc.useonrent)**
 * **[QUizHacker](https://play.google.com/store/apps/details?id=ai.quiz.hacker)**
 * **[LifeMantra](https://play.google.com/store/apps/details?id=com.lifemantra)**
