@@ -47,6 +47,7 @@ The following apps are using this library without facing any kind of Bugs.
 * **[LifeMantra](https://play.google.com/store/apps/details?id=com.lifemantra)**
 
 ## More Library under Jamun 
+
 * **[Pickers](https://github.com/Lib-Jamun/Pickers.git)**
 Pickers Library provide you a set of Pickers like Country, Language, Share and Intent Chooser.
 
@@ -68,10 +69,10 @@ Library is a set of Custom Classes with UI components for network programming, i
 * **[UI](https://github.com/Lib-Jamun/ui.git)**
 library is a set of UI Views, Custom Component and Collection of Helper Classes which help Developer for making quality Product. Such as Camera, Gallery, Number of Pickers, Calendar, Date Pickers, Dialogs and many more Heler UI and Backend Component.
 
-* **[Camera](https://github.com/Lib-Jamun/ui.git)**
+* **[Camera](https://github.com/Lib-Jamun/camera.git)**
 library provide you Custom Complete Camera view with full features like Flash, Rotation, Gallery Picker, Focus, Tap to capture, Confirmation window and last but not least croping feature. It also provide you file path in return so that developer can feel a friendly handy way to Deal After. 
 
-* **[Gallery](https://github.com/Lib-Jamun/ui.git)**
+* **[Gallery](https://github.com/Lib-Jamun/gallery.git)**
 have some Beautiful UI Components and Multi files Mode for android Developers to give there app a A Rich look With single and Multi picker Functionality.
 
 
