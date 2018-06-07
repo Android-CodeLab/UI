@@ -23,12 +23,7 @@ UI library is a set of UI Views, Custom Component and Collection of Helper Class
 ## Credits
 
 Desgin & Developed by : **[Jatin Sahgal](https://www.linkedin.com/in/jatinsahgal/)**
- (**[Linkedin](https://www.linkedin.com/in/jatinsahgal/)** & **[Website](https://jatin.techcruzers.com)**) 
-
-Content Writer : **[Achal Garg](https://www.linkedin.com/in/techgarg/)**
- (**[Linkedin](https://www.linkedin.com/in/techgarg/)** & **[Website](https://achal.techcruzers.com)**) 
-
-Company : **[Techcruzers](https://www.techcruzers.com)**
+ (**[Linkedin](https://www.linkedin.com/in/jatinsahgal/)** & **[Website](https://blog.jamun.tk)**) 
 
 # Live Project using this Library
 
