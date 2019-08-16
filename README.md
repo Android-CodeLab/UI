@@ -2,47 +2,88 @@
 
 UI library is a set of UI Views, Custom Component and Collection of Helper Classes which help Developer for making quality Product. Such as Camera, Gallery, Number of Pickers, Calendar, Date Pickers, Dialogs and many more Heler UI and Backend Component.
 
-### Introduction
-
-* 
-
-### What's New? (0.0.1)
-* Stable **Official Version** for Developers and Live Apps.
-* 
-* Easy Calling Mechanism with **Instant reply** via Listeners and Return Functions
-* 
-* Need less calls with many customs methods to reach maximum developer satisfaction.
-* Already tested with Live apps
-
 ------
-
-# Dependency
-
-* Android Appcompact and Support Fragment Library ``v27.1.1``
-
-## Credits
-
-Desgin & Developed by : **[Jatin Sahgal](https://www.linkedin.com/in/jatinsahgal/)**
- (**[Linkedin](https://www.linkedin.com/in/jatinsahgal/)** & **[Website](https://blog.jamun.tk)**) 
 
 # Live Project using this Library
 
 The following apps are using this library without facing any kind of Bugs.
 
 * **[SimplyBlood](https://play.google.com/store/apps/details?id=com.simplyblood)**
-* **[ZINI](https://play.google.com/store/apps/details?id=ai.zini)**
-* **[SaveBloodIndia](https://play.google.com/store/apps/details?id=com.savebloodindia)**
-* **[Rectangle India](https://play.google.com/store/apps/details?id=com.rectangleindia.blooddonation)**
-* **[Jeevan Rakshak](https://play.google.com/store/apps/details?id=com.jeevanrakshak)**
-* **[QR/Barcode Scanner](https://play.google.com/store/apps/details?id=ai.scanner)**
-* **[Wall-E](https://play.google.com/store/apps/details?id=ai.hd.wallpaper)**
-* **[Napkar](https://play.google.com/store/apps/details?id=com.napkar)**
-* **[UseOnRent](https://play.google.com/store/apps/details?id=com.tc.useonrent)**
-* **[QUizHacker](https://play.google.com/store/apps/details?id=ai.quiz.hacker)**
-* **[LifeMantra](https://play.google.com/store/apps/details?id=com.lifemantra)**
+* **[ZINI](https://play.google.com/store/apps/details?id=ai.zini)**,
+* **[RentalBazar](https://play.google.com/store/apps/details?id=com.rentalbazaar)** 
+* **[DoubtCrusher](https://play.google.com/store/apps/details?id=com.doubtcrusher)**
+* **[BookAGround](https://play.google.com/store/apps/details?id=com.bookaground)**
+* **[PeyFree](https://play.google.com/store/apps/details?id=com.peyfree)**
+* **[ClueRace](https://play.google.com/store/apps/details?id=com.cluerace)**
+* **[QR/Barcode Scanner](https://play.google.com/store/apps/details?id=com.scanner.android)** 
+* **[Wall-E](https://play.google.com/store/apps/details?id=com.walle.android)**
+* **[CIS-Connect In Single](https://play.google.com/store/apps/details?id=com.connectinsingle)**
 
-## More Library under Jamun 
+------
 
+### Gradle Configuration
+
+**Add the dependency**
+
+Step 1\. Add the jCenter repository to your build file. Add it in your root build.gradle at the end of repositories:
+
+```java
+allprojects {
+  repositories {
+        mavenCentral()
+  }
+}
+```
+Step 2\. Add the dependency
+```
+Latest Version : 0.0.8
+
+Android
+dependencies {
+     compile 'tk.jamun.ui:ui:{Latest Version}'
+}
+
+AndroidX
+dependencies {
+     compile 'tk.jamunx.ui:ui:{Latest Version}'
+}
+
+Kotlin
+dependencies {
+     compile 'tk.jamun-ktx.ui:ui:{Latest Version}'
+}
+
+```
+
+### Maven Config
+
+```xml
+<dependency>
+ Android
+  <groupId>tk.jamun.ui</groupId>
+AndroidX
+  <groupId>tk.jamunx.ui</groupId>
+Kotlin
+  <groupId>tk.jamun-ktx.ui</groupId>
+  <artifactId>pickers</artifactId>
+  <version>{Latest Version}</version>
+  <type>aar</type>
+</dependency>
+```
+------
+
+# Dependency
+
+* Android Appcompact and Support Fragment Library ``{Latest Version}``
+* Jamun Volley Library **[Volley](https://github.com/Lib-Jamun/Volley.git)**
+* Android Design Library ``{Latest Version}``
+
+## Credits
+
+Desgin & Developed by : **[Jatin Sahgal](https://www.linkedin.com/in/jatinsahgal/)**
+ (**[Linkedin](https://www.linkedin.com/in/jatinsahgal/)** & **[Website](http://androidcodelab.com/)** & **[Github](https://github.com/Lib-Jamun)**) 
+
+### Connected Libraries Are
 * **[Pickers](https://github.com/Lib-Jamun/Pickers.git)**
 Pickers Library provide you a set of Pickers like Country, Language, Share and Intent Chooser.
 
@@ -58,18 +99,13 @@ is a collection of Beautiful Activities which help others to make there Fully Cu
 * **[Scanner](https://github.com/Lib-Jamun/scanner.git)**
 is a collection of Beautiful Activity which help others to make there own Custom QR/Barcode Scanner. 
 
+## More Library under Jamun 
+
 * **[Volley](https://github.com/Lib-Jamun/Volley.git)**
 Library is a set of Custom Classes with UI components for network programming, integration and transaction handling in a better and standard way. This will help developers for making quality use of volley library. 
 
-* **[UI](https://github.com/Lib-Jamun/ui.git)**
-library is a set of UI Views, Custom Component and Collection of Helper Classes which help Developer for making quality Product. Such as Camera, Gallery, Number of Pickers, Calendar, Date Pickers, Dialogs and many more Heler UI and Backend Component.
-
-* **[Camera](https://github.com/Lib-Jamun/camera.git)**
-library provide you Custom Complete Camera view with full features like Flash, Rotation, Gallery Picker, Focus, Tap to capture, Confirmation window and last but not least croping feature. It also provide you file path in return so that developer can feel a friendly handy way to Deal After. 
-
-* **[Gallery](https://github.com/Lib-Jamun/gallery.git)**
-have some Beautiful UI Components and Multi files Mode for android Developers to give there app a A Rich look With single and Multi picker Functionality.
-
+* **[Elements](https://github.com/Lib-Jamun/elements.git)**
+Library provide you a custom set of Android Elements that have custom views and properties like CircularImageView or CircularNetworkImageView and many more.
 
 ## License
     Copyright (c) 2018 Jatin Sahgal
